@@ -1,0 +1,15 @@
+/Users/josiahdavidgronhoj/Code/C#/Guitar_World/bin/Debug/net6.0/Guitar_World
+/Users/josiahdavidgronhoj/Code/C#/Guitar_World/bin/Debug/net6.0/Guitar_World.deps.json
+/Users/josiahdavidgronhoj/Code/C#/Guitar_World/bin/Debug/net6.0/Guitar_World.runtimeconfig.json
+/Users/josiahdavidgronhoj/Code/C#/Guitar_World/bin/Debug/net6.0/Guitar_World.dll
+/Users/josiahdavidgronhoj/Code/C#/Guitar_World/bin/Debug/net6.0/Guitar_World.pdb
+/Users/josiahdavidgronhoj/Code/C#/Guitar_World/obj/Debug/net6.0/Guitar_World.csproj.AssemblyReference.cache
+/Users/josiahdavidgronhoj/Code/C#/Guitar_World/obj/Debug/net6.0/Guitar_World.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josiahdavidgronhoj/Code/C#/Guitar_World/obj/Debug/net6.0/Guitar_World.AssemblyInfoInputs.cache
+/Users/josiahdavidgronhoj/Code/C#/Guitar_World/obj/Debug/net6.0/Guitar_World.AssemblyInfo.cs
+/Users/josiahdavidgronhoj/Code/C#/Guitar_World/obj/Debug/net6.0/Guitar_World.csproj.CoreCompileInputs.cache
+/Users/josiahdavidgronhoj/Code/C#/Guitar_World/obj/Debug/net6.0/Guitar_World.dll
+/Users/josiahdavidgronhoj/Code/C#/Guitar_World/obj/Debug/net6.0/refint/Guitar_World.dll
+/Users/josiahdavidgronhoj/Code/C#/Guitar_World/obj/Debug/net6.0/Guitar_World.pdb
+/Users/josiahdavidgronhoj/Code/C#/Guitar_World/obj/Debug/net6.0/Guitar_World.genruntimeconfig.cache
+/Users/josiahdavidgronhoj/Code/C#/Guitar_World/obj/Debug/net6.0/ref/Guitar_World.dll
