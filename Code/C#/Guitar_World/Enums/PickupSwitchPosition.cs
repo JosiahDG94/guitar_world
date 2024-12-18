@@ -10,6 +10,5 @@ namespace Guitar_World {
         Middle,
         Middle_Neck,
         Neck,
-        Bridge_Neck,
     }
 }
